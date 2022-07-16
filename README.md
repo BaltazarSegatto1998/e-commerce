@@ -1,2 +1,2 @@
 # e-commerce
-Pequena Aplicação feita com vuejs via cdn.
+Pequena Aplicação feita em vuejs via cdn.
